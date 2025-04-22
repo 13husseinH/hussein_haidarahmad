@@ -7,3 +7,6 @@ RUN apt-get update && apt-get install -y xz-utils
 RUN pip install flask
 RUN npm install -g @vue/cli
 RUN pip install flask flask-cors
+npm install -g @vue/cli
+
+#npm run serve to run vue
