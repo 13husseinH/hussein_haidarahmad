@@ -1,4 +1,8 @@
 Commands needed for codespace:
 
-cd frontend && npm install && npm run serve
+cd frontend 
+
+npm install 
+
+npm run serve
 
